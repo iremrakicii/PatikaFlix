@@ -1,7 +1,5 @@
 ﻿namespace PatikaFlix
 {
-
-
     public class Series
     {
         public string SeriesName { get; set; }
